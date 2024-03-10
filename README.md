@@ -15,9 +15,9 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/deress/)&nbsp;
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developers.google.com/profile/u/103666064181095934220)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 
 
 ## 📈 Github Stats
@@ -28,12 +28,12 @@
 | <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=deress&hide_border=true&theme=radical">
 | ------------- |
 
-| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=deress&layout=compact&hide_border=true&theme=radical">](https://wakatime.com/@deress)
-| ------------- |
-
 ---
 
 ## 🤝🏻 Connect with Me!
 [![Email: idrismuhammad257@gmail.com](https://img.shields.io/badge/-idrismuhammad257@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:idrismuhammad257@gmail.com)
 [![LinkedIn: Idris Muhammad](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idrsmhmd/)](https://www.linkedin.com/in/idrsmhmd/)&nbsp;
 [![Instagram: Follow saudagaridrss](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/saudagaridrss)&nbsp;
+
+<img align="center" src="https://github.com/deress/deress/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
+
