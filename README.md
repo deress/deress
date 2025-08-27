@@ -33,7 +33,7 @@
 ## 🤝🏻 Connect with Me!
 [![Email: idrismuhammad257@gmail.com](https://img.shields.io/badge/-idrismuhammad257@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:idrismuhammad257@gmail.com)
 [![LinkedIn: Idris Muhammad](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idrsmhmd/)](https://www.linkedin.com/in/idrsmhmd/)&nbsp;
-[![Instagram: Follow saudagaridrss](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/saudagaridrss)&nbsp;
+[![Instagram: Follow sayaidrss](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/saudagaridrss)&nbsp;
 
 <img align="center" src="https://github.com/deress/deress/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
 
